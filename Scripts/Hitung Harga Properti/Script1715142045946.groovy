@@ -21,7 +21,7 @@ import org.openqa.selenium.Keys as Keys
 'Test Normal - Perhitungan Harga Properti Maksimal'
 
 //Ambil Data Excel
-String pathData = 'Data Files/Data Keuangan'
+String pathData = 'Data Files/Data Keuangan/../../Desktop/Data Keuangan.xlsx'
 
 //Map<String, Object> data = new HashedMap()
 String penghasilan = findTestData(pathData).getValue('Penghasilan', 1)
