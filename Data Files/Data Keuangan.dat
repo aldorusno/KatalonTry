@@ -7,7 +7,7 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>b9152b7f-a763-4a21-b3f1-dba10781ba55</dataFileGUID>
-   <dataSourceUrl>Include/Data Keuangan.xlsx</dataSourceUrl>
+   <dataSourceUrl>Data Files/Data Keuangan.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>true</isInternalPath>
    <query></query>
