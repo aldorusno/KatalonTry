@@ -6,12 +6,12 @@
    <UUID>0715daa4-2c22-46cc-9c25-1d52b06a8d40</UUID>
    <createdEdition>FREE</createdEdition>
    <createdVersion>9.4.0</createdVersion>
-   <freeLicense>true</freeLicense>
+   <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
-   <modifiedEdition>FREE</modifiedEdition>
+   <modifiedEdition>ENTERPRISE</modifiedEdition>
    <modifiedVersion>9.4.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Users\LENOVO\Katalon Studio\Metrodata MII\Metrodata MII.prj</projectFileLocation>
+   <projectFileLocation>C:\Users\LENOVO\git\katalon-try\Metrodata MII.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
